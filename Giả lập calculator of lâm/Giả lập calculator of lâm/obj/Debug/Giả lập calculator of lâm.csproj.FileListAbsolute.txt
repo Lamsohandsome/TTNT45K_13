@@ -1,0 +1,9 @@
+E:\C#\Giả lập calculator of lâm\Giả lập calculator of lâm\bin\Debug\Giả lập calculator of lâm.exe.config
+E:\C#\Giả lập calculator of lâm\Giả lập calculator of lâm\obj\Debug\Giả lập calculator of lâm.csprojResolveAssemblyReference.cache
+E:\C#\Giả lập calculator of lâm\Giả lập calculator of lâm\obj\Debug\Giả_lập_calculator_of_lâm.Form1.resources
+E:\C#\Giả lập calculator of lâm\Giả lập calculator of lâm\obj\Debug\Giả_lập_calculator_of_lâm.Properties.Resources.resources
+E:\C#\Giả lập calculator of lâm\Giả lập calculator of lâm\obj\Debug\Giả lập calculator of lâm.csproj.GenerateResource.Cache
+E:\C#\Giả lập calculator of lâm\Giả lập calculator of lâm\bin\Debug\Giả lập calculator of lâm.exe
+E:\C#\Giả lập calculator of lâm\Giả lập calculator of lâm\bin\Debug\Giả lập calculator of lâm.pdb
+E:\C#\Giả lập calculator of lâm\Giả lập calculator of lâm\obj\Debug\Giả lập calculator of lâm.exe
+E:\C#\Giả lập calculator of lâm\Giả lập calculator of lâm\obj\Debug\Giả lập calculator of lâm.pdb

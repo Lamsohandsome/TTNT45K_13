@@ -1,0 +1,9 @@
+E:\GetHub\TTNT45K_13\Giả lập Calculator\Giả lập Calculator\Giả lập Calculator\bin\Debug\Giả lập Calculator.exe.config
+E:\GetHub\TTNT45K_13\Giả lập Calculator\Giả lập Calculator\Giả lập Calculator\bin\Debug\Giả lập Calculator.exe
+E:\GetHub\TTNT45K_13\Giả lập Calculator\Giả lập Calculator\Giả lập Calculator\bin\Debug\Giả lập Calculator.pdb
+E:\GetHub\TTNT45K_13\Giả lập Calculator\Giả lập Calculator\Giả lập Calculator\obj\Debug\Giả lập Calculator.csprojResolveAssemblyReference.cache
+E:\GetHub\TTNT45K_13\Giả lập Calculator\Giả lập Calculator\Giả lập Calculator\obj\Debug\Giả_lập_Calculator.btn0.resources
+E:\GetHub\TTNT45K_13\Giả lập Calculator\Giả lập Calculator\Giả lập Calculator\obj\Debug\Giả_lập_Calculator.Properties.Resources.resources
+E:\GetHub\TTNT45K_13\Giả lập Calculator\Giả lập Calculator\Giả lập Calculator\obj\Debug\Giả lập Calculator.csproj.GenerateResource.Cache
+E:\GetHub\TTNT45K_13\Giả lập Calculator\Giả lập Calculator\Giả lập Calculator\obj\Debug\Giả lập Calculator.exe
+E:\GetHub\TTNT45K_13\Giả lập Calculator\Giả lập Calculator\Giả lập Calculator\obj\Debug\Giả lập Calculator.pdb
